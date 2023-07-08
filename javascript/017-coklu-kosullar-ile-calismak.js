@@ -17,3 +17,27 @@ if (userName && age >= 18) {
     //console.log("Yas bilginiz yok veya 18 yasindan kucuksunuz")
     info.innerHTML = "Yas bilginiz yok veya 18 yasindan kucuksunuz"
 }
+
+//! Ekstra Ornekler
+// Switch yapısı belirli bir değere göre hangi kodun çalıştırılacağını yönetmek için kullanılır. 
+// Case tanımlamalarından sonra çalışmasını istediğimiz deyimleri belirtebiliriz. 
+
+let hava = "Yagmurlu";
+switch(hava) {
+case "Yagmurlu":
+    console.log("Semsiyeni yanina almayi unutma");
+    break;
+case "Gunesli":
+    console.log("Hafif giyin");
+case "Bulutlu":
+    console.log("Disari cik");
+    break;
+case "Karlı":
+    console.log("Kalin giyin");
+    break;
+case "Firtinali":
+    console.log("Bir süre disari cikma");
+    break;
+default:
+    console.log("Bilinmeyen hava durumu:" , hava);
+}
