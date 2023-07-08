@@ -1,4 +1,4 @@
-//! DERS-6
+//! DERS-7
 
 //! *** Veri Turunu Ogrnmek ve Veri Turu Donusumleri ***
 

@@ -1,3 +1,4 @@
+//! DERS-5
 //!  ***number***
 /* JavaScript dili weakly-typed yani güçsüz türlü bir dildir. Değişkenlerin ve parametrelerin türlerini bildirmek gerekmez. 
 Tür kullanımdan dolaylı olarak çıkartılır. */

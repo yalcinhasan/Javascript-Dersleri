@@ -1,4 +1,4 @@
-//! DERS-5
+//! DERS-6
 
 //! *** boolean veri tipi ***
 

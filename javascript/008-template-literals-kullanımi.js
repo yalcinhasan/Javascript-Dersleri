@@ -1,4 +1,4 @@
-//! DERS-7
+//! DERS-8
 
 //! Template Literals Kullanımi
 /* Template Literals (önceki adıyla Template Strings), kod okunabilirliği ve yazım kolaylığı sağlayan ES6 ile gelmiş bir string yazma şeklidir. */
